@@ -12,8 +12,10 @@ Performing analysis on Kickstarter data to uncover trends
     
 ### Analysis of Outcomes Based on Launch Date
   ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106715300/174501191-b4fa58d6-de5f-4119-b0a1-a6a15fe1273d.png)
+  In this initial graph, the outcome of the campaign, be it successful, failed, or canceled; is compared with the date of launch. This particular graph is an important piece of information for Louise to examine, as she will want to pick the best time of year to lauch, as there are better and worse months to launch kickstarters. 
 
 ### Analysis of Outcomes Based on Goals
+  ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106715300/174501337-7f5855e8-276b-43a6-869f-2c97bed3a3f6.png)
 
 ### Challenges and Difficulties Encountered
 
