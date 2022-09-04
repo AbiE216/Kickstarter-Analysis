@@ -16,7 +16,7 @@ Performing analysis on Kickstarter data to uncover trends
     In this initial graph, the outcome of the campaign, is compared with the date of launch. This particular graph is an important piece of information for Louise to examine, as she will want to pick the best time of year to launch, as there are better and worse months to launch Kickstarters. 
 
 ### Analysis of Outcomes Based on Goals
-  ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106715300/174501337-7f5855e8-276b-43a6-869f-2c97bed3a3f6.png)
+  ![Outcomes Based on Goals](https://user-images.githubusercontent.com/106715300/188335666-eb8c390f-b00c-4219-9b6f-f495b489044e.png)
 
   In this second graph, the goals are compared to the percentage of funding they received, compared to their success or failure. This graph will give Louise a concrete idea of how much money she should aim to raise in order to have a successful Kickstarter campaign. 
 ### Challenges and Difficulties Encountered
